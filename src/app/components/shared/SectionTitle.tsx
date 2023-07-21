@@ -3,7 +3,7 @@ import React from 'react'
 type Props = {
   title: string
   subtitle: string
-  backgroundStyle?: 'white' | 'blue'
+  backgroundStyle?: string
 }
 
 export const SectionTitle = ({ title, subtitle, backgroundStyle }: Props) => {

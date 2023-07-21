@@ -2,6 +2,7 @@ import Head from "next/head";
 
 import { AboutSection } from "./components/about/AboutSection";
 import { CareerSection } from "./components/career/CareerSection";
+import { AchievementSection } from "./components/achievement/AchievementSection";
 import { AsideWrapper } from "./components/shared/AsideWrapper";
 
 export default function Home() {
@@ -15,6 +16,7 @@ export default function Home() {
         <AsideWrapper>
           <CareerSection />
         </AsideWrapper>
+        <AchievementSection />
       </main>
     </>
   );
