@@ -1,27 +1,9 @@
-Myportfolio
+# My portfolio
 
-## Getting Started
+* 工事中です。
 
-First, run the development server:
+* プログラミングを再開したので、少しずつ作っていこうかなと思っています。
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+# Link
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Technology Stack
-
-* Typesctipt
-* Next.js
-* Tailwind CSS
+https://my-portfolio-sable-pi.vercel.app/
